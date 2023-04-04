@@ -3,9 +3,12 @@
 <hr>
 
 ### Requirements:
-python 3.7+
-pyrogram
-aiohttp
+
+<ul>
+  <li>python 3.7+</li>
+  <li>pyrogram</li>
+  <li>aiohttp</li>
+</ul>
 
 <hr>
 ## Slide
